@@ -6,18 +6,18 @@
 
 - Jack and the beta testers love it and have task us to take their feedback to further improve the app.
 
-## Resources
-Data Source: www.openweathermap.com
-Data Source: gmaps being leveraged to build maps via API
-Sofware: Jupyter Notebook
-Library: matplotlib.pyplot
-Library: pandas
-Library: numpy
-Library: citypy
-Library: requests
-Library: datetime
-Library: gmaps
-Language: Python
+## Resources 
+Data Source: www.openweathermap.com <br/>
+Data Source: gmaps being leveraged to build maps via API <br/>
+Sofware: Jupyter Notebook<br/>
+Library: matplotlib.pyplot<br/>
+Library: pandas<br/>
+Library: numpy<br/>
+Library: citypy<br/>
+Library: requests<br/>
+Library: datetime<br/>
+Library: gmaps<br/>
+Language: Python<br/>
 
 ## Deliverable 1: Retrieve Weather Data
 -Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data you gathered in this module, use your API skills to retrieve the current weather description for each city. Then, create a new DataFrame containing the updated weather data.
