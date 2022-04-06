@@ -4,7 +4,7 @@
 
 - We have been tasked with three deliverables that will create a few changes to take the PlanMyTrip app to the next level.
 
-- Jack and the beta testers love it and have task us to take their feedback to further improve the app.
+- Jack and the beta testers loved the PlanMyTrip app and would like for changes to be made based on their feedback to further improve the app.
 
 ## Resources 
 - Data Source: www.openweathermap.com <br/>
